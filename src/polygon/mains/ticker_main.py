@@ -1,7 +1,7 @@
 """This is the main of the module collector, here the functionalities 
     of this module are used to download, filter and store data"""
 
-from polygon.get_data.get_data import Ticker
+from ..tool.get_data import Ticker
 from scriba.scriba.scriba import DbManager
 from secret.secret_man.secret_man import SecretManager as sm
 import time
