@@ -1,0 +1,5 @@
+name  = 'name'
+base_url = 'base_url'
+auth = 'auth'
+query = 'query'
+request_limit_per_minute = 'request_limit_per_minute'
